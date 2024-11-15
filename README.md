@@ -206,12 +206,12 @@ Desarrollar un programa en Python que simule el sorteo del Euromillón. El progr
 
 - Llama a las funciones en el orden correcto para implementar el flujo del programa:
 
-  1. Limpia la pantalla.
-  2. Pregunta al jugador cuántos números y estrellas quiere jugar.
-  3. Solicita los números y estrellas al jugador.
-  4. Genera los números y estrellas premiadas.
-  5. Realiza una pausa con el mensaje "Presiones ENTER para continuar...".
-  6. Muestra los resultados del sorteo.
+1. Limpia la pantalla.
+2. Pregunta al jugador cuántos números y estrellas quiere jugar.
+3. Solicita los números y estrellas al jugador.
+4. Genera los números y estrellas premiadas.
+5. Realiza una pausa con el mensaje "Presiones ENTER para continuar...".
+6. Muestra los resultados del sorteo.
 
 ### Paso 4: Prueba el Programa ###
 - Ejecuta el programa y verifica que se cumplan los requisitos indicados.
